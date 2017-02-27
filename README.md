@@ -1,5 +1,5 @@
 #Community Detection in social networks using modularity measure optimization
- - implemented in Fanavard Data Minig challanege as solution to one of problems
+ - implemented as solution to one of problems of Fanavard Data Minig challanege 
  
 One of the most important tasks when studying networks is that of identifying network communities. Fundamentally, communities allow us to discover groups of interacting objects (i.e., nodes) and the relations between them. For example,
 in social networks, communities correspond to groups of friends who attended the same school, or who come from the same hometown [28]; in protein interaction networks, communities are functional modules of interacting proteins [1];
